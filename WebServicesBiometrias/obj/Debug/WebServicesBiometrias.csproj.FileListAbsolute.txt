@@ -1,0 +1,24 @@
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll.config
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.pdb
+C:\inetpub\wwwroot\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll.config
+C:\inetpub\wwwroot\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll
+C:\inetpub\wwwroot\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.pdb
+C:\inetpub\wwwroot\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.dll
+C:\inetpub\wwwroot\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.pdb
+D:\SubVersion\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll.config
+D:\SubVersion\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll
+D:\SubVersion\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.pdb
+D:\SubVersion\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.csprojResolveAssemblyReference.cache
+D:\SubVersion\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.dll
+D:\SubVersion\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll.config
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\WebServicesBiometrias\WebServicesBiometrias\bin\WebServicesBiometrias.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.csprojResolveAssemblyReference.cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\WebServicesBiometrias\WebServicesBiometrias\obj\Debug\WebServicesBiometrias.pdb
